@@ -13,6 +13,7 @@
     { "src": "*.woff", "use": "@vercel/static" },
     { "src": "*.otf", "use": "@vercel/static" },
     { "src": "*.svg", "use": "@vercel/static" },
+    { "src": "*./public/.png", "use": "@vercel/static" },
     { "src": "https://www.external-website.com/**", "use": "@vercel/static" }
   ],
   "routes": [
