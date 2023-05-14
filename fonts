@@ -1,0 +1,4 @@
+mkdir fonts
+cp /workspaces/profile/public/PangeaTextTrial-Regular.otf/to/font.tff fonts/
+cp /workspaces/profile/public/PangeaTextTrial-Bold.otf/to/font.tff fonts/
+cp //workspaces/profile/public/PangeaTextTrial-Medium.otf/to/font.tff fonts/
