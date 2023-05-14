@@ -6,5 +6,5 @@
   "routes": [
     { "src": "/(.*)", "dest": "/$1" }
   ],
-  "public": "/dist"
+  "public": true
 }
