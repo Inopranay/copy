@@ -1,7 +1,6 @@
-{
-  "version": 2,
+"version": 2,
   "routes": [
     { "src": "/(.*)", "dest": "/$1" }
   ],
-  "public": true
-}
+  "public": {
+    "directory": "dist"
