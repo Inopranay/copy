@@ -5,6 +5,7 @@ body {
 
 :root {
   /* fonts */
+  --fontFamily = "Pangea Text Trial"
   --font-pangea-text-trial: "Pangea Text Trial";
   --font-poppins: Poppins;
 
